@@ -75,12 +75,15 @@ circle of 30 mm and an inner hole of 20 mm.
 2.Select the outer ring profile of the cylinder and Extrude it 
 upward by 10 mm to form the boss
 
+<img width="646" height="542" alt="Screenshot 2026-10-15 110309" src="https://github.com/user-attachments/assets/98eaf332-59ef-4294-81b2-b7c8ea631559" />
 <img width="400" height="297" alt="Screenshot 2026-10-16 010522" src="https://github.com/user-attachments/assets/395e1eda-c582-4473-b226-19d435397931" />
 
 ## STEP-9: : Final Inspection and Saving 
 1. Go to File > Save and name the project. 
 2. Select new file and draft the drawing of this model, show 3 
-view of projections
+view of projections.
+
+<img width="760" height="612" alt="Exercise 2 2 sketch" src="https://github.com/user-attachments/assets/c087049a-12a9-4ea2-a471-977fc565a39f" />
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
